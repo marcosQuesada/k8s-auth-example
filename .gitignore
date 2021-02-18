@@ -1,3 +1,9 @@
+# skip intellij editor
+.idea
+
+#skip vendors
+vendor
+
 # Binaries for programs and plugins
 *.exe
 *.dll
